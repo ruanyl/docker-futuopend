@@ -1,5 +1,5 @@
 ```bash
-docker run futu -v /Users/ruanyl/project/FutuOpenD/ft_hist_data:/ft_hist_data \
+docker run futu -v /path/to/host/ft_hist_data:/ft_hist_data \
 -p 11111:11111 \
 -p 22222:22222 \
 -e FUTU_OPEND_LOGIN_ACCOUNT=100000 \
