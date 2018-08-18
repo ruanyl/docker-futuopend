@@ -1,0 +1,14 @@
+{
+  "name": "docker-futuquant",
+  "version": "1.0.0",
+  "description": "docker futuquant",
+  "main": "index.js",
+  "scripts": {
+    "config": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "xml": "^1.0.1"
+  }
+}
